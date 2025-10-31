@@ -7,4 +7,4 @@
 5. Monotize:
    Advertisements
 
-Owen Crisp, Isaac Rios, 
+Owen Crisp, Isaac Rios, Kennedy Mokom
