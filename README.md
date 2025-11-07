@@ -31,3 +31,5 @@ Satya: Just wait until other parts are completed
 Current Status:
 
 Just started
+
+GroupMe: https://groupme.com/join_group/111479420/PapvdNTM
