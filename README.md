@@ -19,9 +19,13 @@ Using python for app creation #(UPDATE)
 How to contribute:
 
 Owen: Work on the app
+
 Isaac: Start figuring out how to create this database
+
 Kennedy: Just wait until other parts are completed
+
 Krisitan: Wait until Owen completes the structure of the app to make it more user-friendly
+
 Satya: Just wait until other parts are completed
 
 Current Status:
