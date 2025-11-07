@@ -8,3 +8,5 @@
    Advertisements
 
 Owen Crisp, Isaac Rios, Kennedy Mokom, Kristian Ng
+
+GroupMe: https://groupme.com/join_group/111479420/PapvdNTM
