@@ -1,0 +1,2 @@
+# This project uses only the Python standard library for the prototype.
+# If you add external dependencies, list them here (one per line).

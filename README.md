@@ -14,6 +14,10 @@ How to run the project locally:
 
 1. TBD
 
+```powershell
+python -m src.app wolf direwolf
+```
+
 Using python for app creation #(UPDATE)
 
 How to contribute:

@@ -1,0 +1,17 @@
+{
+  "wolf:direwolf": {
+    "min_mya": 0.5,
+    "max_mya": 1.2,
+    "note": "Sample fictional data — replace with real dataset."
+  },
+  "dog:wolf": {
+    "min_mya": 0.015,
+    "max_mya": 0.04,
+    "note": "Approximate divergence/domestication window."
+  },
+  "human:chimpanzee": {
+    "min_mya": 5.0,
+    "max_mya": 7.0,
+    "note": "Commonly cited hominid split range (example)."
+  }
+}
