@@ -1,0 +1,26 @@
+Owen Crisp - Creating the app structure/frontend - Github: DudeMcMan 
+Isaac Rios - Creating a database compatible with the app - Github: RIOSISAAC4 
+Kennedy Mokom - Connecting and implementing the different parts of the project - Github: Thatboikennedy 
+Krsitian Ng - Improving and making the app user-friendly - Github: kristianng13 
+Satyakinandan Nallagoppula - Connecting and implementing the different parts of the project - Github: satyakinandan
+
+How to run the project locally: Use python and command prompt
+
+Using python's tkinter library for app creation
+
+How to contribute:
+
+Owen: Work on the app
+
+Isaac: Start figuring out how to create this database
+
+Kennedy: Just wait until other parts are completed
+
+Krisitan: Wait until Owen completes the structure of the app to make it more user-friendly
+
+Satya: Just wait until other parts are completed
+
+Current Status:
+
+App structure in progress
+Database for app in progress
